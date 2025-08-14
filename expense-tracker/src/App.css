@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+  /* overflow-y: auto; */
+ background: #e5f6ef;
+
+
+
+  background-size: cover;
+}
